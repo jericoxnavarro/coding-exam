@@ -7,7 +7,7 @@
 
 # Singlife Coding Exam
 
-This coding exam is implimented using Node JS. You can view the coding exam problem here [EXAM.md](https://github.com/jericoxnavarro/singlife-coding-exam/EXAM.md)
+This coding exam is implimented using Node JS. You can view the coding exam problem here [EXAM.md](https://github.com/jericoxnavarro/singlife-coding-exam/blob/main/EXAM.md)
 
 ## Installation
 
