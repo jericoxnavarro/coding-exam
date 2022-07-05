@@ -1,0 +1,347 @@
+export const ParkingSlots = [
+  {
+    name: "A",
+    slots: [
+      {
+        name: "A1",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 1,
+        row: 1,
+        parkDate: null,
+      },
+      {
+        name: "A2",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 1,
+        row: 2,
+        parkDate: null,
+      },
+      {
+        name: "A3",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 1,
+        row: 3,
+        parkDate: null,
+      },
+      {
+        name: "A4",
+        occupied: false,
+        parkingSize: {
+          slot: "SP",
+          size: 0,
+        },
+        column: 1,
+        row: 4,
+        parkDate: null,
+      },
+      {
+        name: "A5",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 1,
+        row: 5,
+        parkDate: null,
+      },
+      {
+        name: "A6",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 2,
+        row: 1,
+        parkDate: null,
+      },
+      {
+        name: "A7",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 2,
+        row: 2,
+        parkDate: null,
+      },
+      {
+        name: "A8",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 2,
+        row: 3,
+        parkDate: null,
+      },
+      {
+        name: "A9",
+        occupied: false,
+        parkingSize: {
+          slot: "SP",
+          size: 0,
+        },
+        column: 2,
+        row: 4,
+        parkDate: null,
+      },
+      {
+        name: "A10",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 2,
+        row: 5,
+        parkDate: null,
+      },
+    ],
+  },
+  {
+    name: "B",
+    slots: [
+      {
+        name: "B1",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 1,
+        row: 1,
+        parkDate: null,
+      },
+      {
+        name: "B2",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 1,
+        row: 2,
+        parkDate: null,
+      },
+      {
+        name: "B3",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 1,
+        row: 3,
+        parkDate: null,
+      },
+      {
+        name: "B4",
+        occupied: false,
+        parkingSize: {
+          slot: "SP",
+          size: 0,
+        },
+        column: 1,
+        row: 4,
+        parkDate: null,
+      },
+      {
+        name: "B5",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 1,
+        row: 5,
+        parkDate: null,
+      },
+      {
+        name: "B6",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 2,
+        row: 1,
+        parkDate: null,
+      },
+      {
+        name: "B7",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 2,
+        row: 2,
+        parkDate: null,
+      },
+      {
+        name: "B8",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 2,
+        row: 3,
+        parkDate: null,
+      },
+      {
+        name: "B9",
+        occupied: false,
+        parkingSize: {
+          slot: "SP",
+          size: 0,
+        },
+        column: 2,
+        row: 4,
+        parkDate: null,
+      },
+      {
+        name: "B10",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 2,
+        row: 5,
+        parkDate: null,
+      },
+    ],
+  },
+  {
+    name: "C",
+    slots: [
+      {
+        name: "C1",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 1,
+        row: 1,
+        parkDate: null,
+      },
+      {
+        name: "C2",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 1,
+        row: 2,
+        parkDate: null,
+      },
+      {
+        name: "C3",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 1,
+        row: 3,
+        parkDate: null,
+      },
+      {
+        name: "C4",
+        occupied: false,
+        parkingSize: {
+          slot: "SP",
+          size: 0,
+        },
+        column: 1,
+        row: 4,
+        parkDate: null,
+      },
+      {
+        name: "C5",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 1,
+        row: 5,
+        parkDate: null,
+      },
+      {
+        name: "C6",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 2,
+        row: 1,
+        parkDate: null,
+      },
+      {
+        name: "C7",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 2,
+        row: 2,
+        parkDate: null,
+      },
+      {
+        name: "C8",
+        occupied: false,
+        parkingSize: {
+          slot: "MP",
+          size: 1,
+        },
+        column: 2,
+        row: 3,
+        parkDate: null,
+      },
+      {
+        name: "C9",
+        occupied: false,
+        parkingSize: {
+          slot: "SP",
+          size: 0,
+        },
+        column: 2,
+        row: 4,
+        parkDate: null,
+      },
+      {
+        name: "C10",
+        occupied: false,
+        parkingSize: {
+          slot: "LP",
+          size: 2,
+        },
+        column: 2,
+        row: 5,
+        parkDate: null,
+      },
+    ],
+  },
+];
