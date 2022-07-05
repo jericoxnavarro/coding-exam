@@ -126,7 +126,7 @@ export class Parking {
     let t1h = 1000 * 60;
     let charges = 0;
 
-    var hourlyCharge = 0;
+    let hourlyCharge = 0;
 
     if (size == 0) {
       hourlyCharge = 20;
