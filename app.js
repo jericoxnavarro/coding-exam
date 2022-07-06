@@ -8,7 +8,7 @@ let prompt = `${chalk.greenBright(
   "[ P - PARK, U - UNPARK, M - MAP, X -EXIT ]"
 )}\n${chalk.blueBright.bold("SELECT ACTION: ")}`;
 console.clear();
-console.log(chalk.blueBright.bold(Header));
+// console.log(chalk.blueBright.bold(Header));
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
